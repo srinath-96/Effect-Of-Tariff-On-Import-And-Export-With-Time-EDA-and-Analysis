@@ -67,9 +67,9 @@ Data Source: World Bank's World Integrated Trade Solutions (WITS)
 
 Multiple linear regression models analyzed tariff impacts on exports/imports separately for developed and developing nations. Key models include:
 
-| Model | Dependent Variable | Countries Analyzed | Adjusted R² |
-|-------|--------------------|--------------------|------------------|
-| 1     | Export Values      | Developed          | 0.8667           |
+| Model | Dependent Variable | Countries Analyzed | Adjusted R²          |
+|---------|------------------|--------------------|----------------------|
+| Model 1 | Export Values    | Developed          | Adjusted R² = 0.8667 |
 | Model 2 | Import Values    | Developed          | Adjusted R² = 0.8417 |
 | Model 3 | Export Values    | Developing         | Adjusted R² = 0.8412 |
 | Model 4 | Import Values    | Developing         | Adjusted R² = 0.8717 |
